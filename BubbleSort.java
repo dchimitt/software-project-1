@@ -6,7 +6,7 @@ https://www.geeksforgeeks.org/bubble-sort-algorithm/
 // Optimized java implementation of Bubble sort
 import java.io.*;
 
-class GFG {
+public class BubbleSort {
     
     // An optimized version of Bubble Sort
     static void bubbleSort(int arr[], int n){
